@@ -1,5 +1,298 @@
 {
-  "generated_at": "2026-08-10T22:08:00+03:00",
+  "generated_at": "2026-08-21T16:53:46.537156+03:00",
   "timezone": "Asia/Jerusalem",
-  "events": []
+  "events": [
+    {
+      "id": "evt_2370c504c2a4f062dd5418b8",
+      "title": "סדנת ציאנוטייפ לילדים והורים",
+      "description": "סדנת ציאנוטייפ לילדים והורים בהנחיית אלה ריינץ דונייסקי, במסגרת מחנה משותף #9.",
+      "city": "כפר סבא",
+      "venue_name": "בית האמנים",
+      "address": "רחוב גלר 4",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.404039+00:00",
+      "updated_at": "2026-08-21T11:31:28.404039+00:00",
+      "occurrence_id": "occ_bfa921b4488db4f120f1c664",
+      "starts_at": "2026-08-22T11:00:00+03:00",
+      "ends_at": null,
+      "categories": [
+        "סדנה",
+        "אמנות"
+      ],
+      "audience": [
+        "ילדים",
+        "הורים"
+      ],
+      "sources": [
+        {
+          "source": "whatsapp:120363421766972575@g.us",
+          "source_url": "https://did.li/ITyUY"
+        }
+      ],
+      "source": "whatsapp:120363421766972575@g.us",
+      "source_url": "https://did.li/ITyUY"
+    },
+    {
+      "id": "evt_e8825c69594e2d2409d21762",
+      "title": "חוויית פאדל",
+      "description": "היכרות והדרכה בספורט פאדל לגילאי 8–16, ללא עלות ובהרשמה מראש.",
+      "city": "כפר סבא",
+      "venue_name": "מגרשי הפאדל, פארק יצחק ולד",
+      "address": "כניסה מהאצטדיון",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.362120+00:00",
+      "updated_at": "2026-08-21T11:31:28.362120+00:00",
+      "occurrence_id": "occ_998f227a1946a1f5bfcba825",
+      "starts_at": "2026-08-23T16:00:00+03:00",
+      "ends_at": "2026-08-23T20:00:00+03:00",
+      "categories": [
+        "ספורט"
+      ],
+      "audience": [
+        "גילאי 8-16"
+      ],
+      "sources": [
+        {
+          "source": "whatsapp:120363206593405690@g.us",
+          "source_url": "https://padelisrael.co.il"
+        }
+      ],
+      "source": "whatsapp:120363206593405690@g.us",
+      "source_url": "https://padelisrael.co.il"
+    },
+    {
+      "id": "evt_9395617ffa7912ce7e114e06",
+      "title": "הפנינג מים לכל המשפחה",
+      "description": "אירוע מים מונגש לכל המשפחה, כולל גלישת מים, בגינת קדושי קהיר. הכניסה חופשית.",
+      "city": "כפר סבא",
+      "venue_name": "גינת קדושי קהיר",
+      "address": "שכונת סביוני הכפר",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.398493+00:00",
+      "updated_at": "2026-08-21T11:31:28.398493+00:00",
+      "occurrence_id": "occ_34984cca4783556e83114e13",
+      "starts_at": "2026-08-24T17:00:00+03:00",
+      "ends_at": "2026-08-24T19:00:00+03:00",
+      "categories": [
+        "משפחה",
+        "מים"
+      ],
+      "audience": [
+        "משפחות"
+      ],
+      "sources": [
+        {
+          "source": "whatsapp:120363402988191831@g.us",
+          "source_url": ""
+        }
+      ],
+      "source": "whatsapp:120363402988191831@g.us",
+      "source_url": ""
+    },
+    {
+      "id": "evt_c34cc8d15b9fb457334a211f",
+      "title": "סיור לילי בירח",
+      "description": "סיור בשדות ממזרח לעיר לאור ירח כמעט מלא, עם חידות, סיפורים, שירים והפעלות. מגיל 6 ומעלה.",
+      "city": "כפר סבא",
+      "venue_name": "",
+      "address": "רחוב חולדה הנביאה 3",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.395926+00:00",
+      "updated_at": "2026-08-21T11:31:28.395926+00:00",
+      "occurrence_id": "occ_d1d8f0fbb2d880f9e872ab0b",
+      "starts_at": "2026-08-25T19:00:00+03:00",
+      "ends_at": null,
+      "categories": [
+        "סיור",
+        "טבע"
+      ],
+      "audience": [
+        "גיל 6 ומעלה"
+      ],
+      "sources": [
+        {
+          "source": "whatsapp:120363328408903704@g.us",
+          "source_url": ""
+        }
+      ],
+      "source": "whatsapp:120363328408903704@g.us",
+      "source_url": ""
+    },
+    {
+      "id": "evt_d01959aa36099568ce3e00f4",
+      "title": "אומנות בנשמה בארט קיימא",
+      "description": "ערב שכולו השראה ויצירה ותערוכה של יוצרות קהילת ארט קיימא.",
+      "city": "כפר סבא",
+      "venue_name": "ארט קיימא",
+      "address": "אזור תעשייה 45",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.361600+00:00",
+      "updated_at": "2026-08-21T11:31:28.361600+00:00",
+      "occurrence_id": "occ_29b9908350654abb66050792",
+      "starts_at": "2026-08-27T18:00:00+03:00",
+      "ends_at": "2026-08-27T20:30:00+03:00",
+      "categories": [
+        "אמנות",
+        "תערוכה"
+      ],
+      "audience": [],
+      "sources": [
+        {
+          "source": "whatsapp:120363196049059738@g.us",
+          "source_url": ""
+        }
+      ],
+      "source": "whatsapp:120363196049059738@g.us",
+      "source_url": ""
+    },
+    {
+      "id": "evt_0dfe709d74213da951cc0238",
+      "title": "שרים עם חברים: שירים עד כאן",
+      "description": "מחווה לנחום היימן במלאת עשור למותו.",
+      "city": "כפר סבא",
+      "venue_name": "היכל התרבות כפר סבא",
+      "address": "",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.347934+00:00",
+      "updated_at": "2026-08-21T11:31:28.353471+00:00",
+      "occurrence_id": "occ_cd117c0e21a120df60663b27",
+      "starts_at": "2026-08-30T20:00:00+03:00",
+      "ends_at": null,
+      "categories": [
+        "מוזיקה"
+      ],
+      "audience": [],
+      "sources": [
+        {
+          "source": "whatsapp:120363046504559775@g.us",
+          "source_url": ""
+        },
+        {
+          "source": "whatsapp:120363046121970498@g.us",
+          "source_url": ""
+        }
+      ],
+      "source": "whatsapp:120363046504559775@g.us",
+      "source_url": ""
+    },
+    {
+      "id": "evt_8b5f350b9a790e1441308a6c",
+      "title": "תיקון אופניים",
+      "description": "אירוע תיקוני אופניים קהילתי: ברקסים, כיוון הילוכים ומושבים, תיקון פנצ'ר, חיזוק ברגים ושימון שרשרת. כולל מופע, פינות משחק ויצירה.",
+      "city": "כפר סבא",
+      "venue_name": "",
+      "address": "מדרחוב ירושלים",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.396451+00:00",
+      "updated_at": "2026-08-21T11:31:28.396451+00:00",
+      "occurrence_id": "occ_45669bc6912b05c0f275ede8",
+      "starts_at": "2026-09-09T17:00:00+03:00",
+      "ends_at": "2026-09-09T19:00:00+03:00",
+      "categories": [
+        "קהילה",
+        "אופניים"
+      ],
+      "audience": [],
+      "sources": [
+        {
+          "source": "whatsapp:120363328408903704@g.us",
+          "source_url": ""
+        }
+      ],
+      "source": "whatsapp:120363328408903704@g.us",
+      "source_url": ""
+    },
+    {
+      "id": "evt_f72311e91737ceb2e2721bec",
+      "title": "בתים פתוחים",
+      "description": "סוף שבוע של אמנות ויצירה מקומית ברחבי כפר סבא.",
+      "city": "כפר סבא",
+      "venue_name": "רחבי כפר סבא",
+      "address": "",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.403538+00:00",
+      "updated_at": "2026-08-21T11:31:28.403538+00:00",
+      "occurrence_id": "occ_90bbbca0552afc960c45a6e8",
+      "starts_at": "2026-11-06T10:00:00+02:00",
+      "ends_at": "2026-11-07T19:00:00+02:00",
+      "categories": [
+        "אמנות"
+      ],
+      "audience": [],
+      "sources": [
+        {
+          "source": "whatsapp:120363421766972575@g.us",
+          "source_url": ""
+        }
+      ],
+      "source": "whatsapp:120363421766972575@g.us",
+      "source_url": ""
+    },
+    {
+      "id": "evt_63c3e21776f8543414e31086",
+      "title": "שלום חנוך",
+      "description": "מופע של שלום חנוך.",
+      "city": "כפר סבא",
+      "venue_name": "היכל התרבות כפר סבא",
+      "address": "",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-08-21T11:31:28.349275+00:00",
+      "updated_at": "2026-08-21T11:31:28.354732+00:00",
+      "occurrence_id": "occ_35367540c5f7342b832830f0",
+      "starts_at": "2026-12-10T21:00:00+02:00",
+      "ends_at": null,
+      "categories": [
+        "מוזיקה"
+      ],
+      "audience": [],
+      "sources": [
+        {
+          "source": "whatsapp:120363046504559775@g.us",
+          "source_url": ""
+        },
+        {
+          "source": "whatsapp:120363046121970498@g.us",
+          "source_url": ""
+        }
+      ],
+      "source": "whatsapp:120363046504559775@g.us",
+      "source_url": ""
+    }
+  ]
 }

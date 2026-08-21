@@ -3,4 +3,99 @@ VERSION:2.0
 PRODID:-//mim21//Kfar Saba Events//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Kfar Saba Events
+BEGIN:VEVENT
+UID:occ_bfa921b4488db4f120f1c664@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20260822T080000Z
+SUMMARY:סדנת ציאנוטייפ לילדים והורים
+LOCATION:בית האמנים\, רחוב גלר 4\, כפר סבא
+DESCRIPTION:סדנת ציאנוטייפ לילדים והורים ב
+ הנחיית אלה ריינץ דונייסקי\, במסגרת מח
+ נה משותף #9.
+URL:https://did.li/ITyUY
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_998f227a1946a1f5bfcba825@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20260823T130000Z
+DTEND:20260823T170000Z
+SUMMARY:חוויית פאדל
+LOCATION:מגרשי הפאדל\, פארק יצחק ולד\, כניס
+ ה מהאצטדיון\, כפר סבא
+DESCRIPTION:היכרות והדרכה בספורט פאדל לגיל
+ אי 8–16\, ללא עלות ובהרשמה מראש.
+URL:https://padelisrael.co.il
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_34984cca4783556e83114e13@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20260824T140000Z
+DTEND:20260824T160000Z
+SUMMARY:הפנינג מים לכל המשפחה
+LOCATION:גינת קדושי קהיר\, שכונת סביוני הכ
+ פר\, כפר סבא
+DESCRIPTION:אירוע מים מונגש לכל המשפחה\, כו
+ לל גלישת מים\, בגינת קדושי קהיר. הכניס
+ ה חופשית.
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_d1d8f0fbb2d880f9e872ab0b@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20260825T160000Z
+SUMMARY:סיור לילי בירח
+LOCATION:רחוב חולדה הנביאה 3\, כפר סבא
+DESCRIPTION:סיור בשדות ממזרח לעיר לאור ירח 
+ כמעט מלא\, עם חידות\, סיפורים\, שירים ו
+ הפעלות. מגיל 6 ומעלה.
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_29b9908350654abb66050792@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20260827T150000Z
+DTEND:20260827T173000Z
+SUMMARY:אומנות בנשמה בארט קיימא
+LOCATION:ארט קיימא\, אזור תעשייה 45\, כפר סב
+ א
+DESCRIPTION:ערב שכולו השראה ויצירה ותערוכה
+  של יוצרות קהילת ארט קיימא.
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_cd117c0e21a120df60663b27@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20260830T170000Z
+SUMMARY:שרים עם חברים: שירים עד כאן
+LOCATION:היכל התרבות כפר סבא\, כפר סבא
+DESCRIPTION:מחווה לנחום היימן במלאת עשור ל
+ מותו.
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_45669bc6912b05c0f275ede8@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20260909T140000Z
+DTEND:20260909T160000Z
+SUMMARY:תיקון אופניים
+LOCATION:מדרחוב ירושלים\, כפר סבא
+DESCRIPTION:אירוע תיקוני אופניים קהילתי: ב
+ רקסים\, כיוון הילוכים ומושבים\, תיקון 
+ פנצ'ר\, חיזוק ברגים ושימון שרשרת. כולל
+  מופע\, פינות משחק ויצירה.
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_90bbbca0552afc960c45a6e8@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20261106T080000Z
+DTEND:20261107T170000Z
+SUMMARY:בתים פתוחים
+LOCATION:רחבי כפר סבא\, כפר סבא
+DESCRIPTION:סוף שבוע של אמנות ויצירה מקומי
+ ת ברחבי כפר סבא.
+END:VEVENT
+BEGIN:VEVENT
+UID:occ_35367540c5f7342b832830f0@kfar-saba-events.local
+DTSTAMP:20260821T135346Z
+DTSTART:20261210T190000Z
+SUMMARY:שלום חנוך
+LOCATION:היכל התרבות כפר סבא\, כפר סבא
+DESCRIPTION:מופע של שלום חנוך.
+END:VEVENT
 END:VCALENDAR
