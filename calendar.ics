@@ -4,135 +4,8 @@ PRODID:-//mim21//Kfar Saba Events//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Kfar Saba Events
 BEGIN:VEVENT
-UID:occ_056192ca0cd9926ab8d0a528@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T070000Z
-SUMMARY:סדנת מקרמה - הכנת מרכז שולחן לראש 
- השנה
-LOCATION:מרכז קהילתי הברנש\, הוד השרון
-DESCRIPTION:08 ספטמבר סדנת מקרמה - הכנת מרכז 
- שולחן לראש השנה פרטים נוספים סדנת מק
- רמה - הכנת מרכז שולחן לראש השנה בברנש 
- - רח' הפלמ"ח 37 נווה הדר\,הוד השרון מרכז 
- קהילתי הברנש ביום שלישי\, 8 בספטמבר 2026
-  בשעה 10:00
-URL:https://aluma.smarticket.co.il/פעילות_בברנש_/?id=4854
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_06c32efe647396a1127c1ba4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T134500Z
-DTEND:20260909T153000Z
-SUMMARY:הפנינג ספורט קהילתי
-LOCATION:מרכזי הספורט לאה גולדברג\, אלון ו
- רמז\, רח' ספיר 20\; רח' ששת הימים 32\; רח' א
- לי הורוביץ 23\, כפר סבא
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_d5ab8a559236db2255a64016@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T140000Z
-SUMMARY:הפנינג לכל המשפחה
-LOCATION:גינת גאולים\, רחוב אלחריזי 9\, כפר 
- סבא
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_0be7976b7491a83f1501c1a1@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T140000Z
-SUMMARY:ליאתי ולה-לה גם – "מתחילים בחיוך"\
- , לגילאי שנתיים עד 3 שנים
-LOCATION:בית לגיל הרך אולם 3 (רחוב הדרים 46)\
- , הוד השרון
-DESCRIPTION:08 ספטמבר ליאתי ולה-לה גם – "מתח
- ילים בחיוך"\, לגילאי שנתיים עד 3 שנים פ
- רטים נוספים ליאתי ולה-לה גם – "מתחילי
- ם בחיוך"\, לגילאי שנתיים עד 3 שנים בית 
- לגיל הרך אולם 3 (רחוב הדרים 46) ביום שלי
- שי\, 8 בספטמבר 2026 בשעה 17:00 הכרטיסים אזל
- ו
-URL:https://aluma.smarticket.co.il/ליאתי_ולה-לה_גם/?id=4
- 828
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_5112280825f8f62563270816@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T143000Z
-DTEND:20260908T160000Z
-SUMMARY:התנדבות בשינוע סלי מזון לערב ראש 
- השנה
-LOCATION:רח' הכיכר 4\, כפר סבא
-URL:https://chat.whatsapp.com/GRyHDXQMfl2Gpl763qGw1W?mode=hqrt3
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_555a9dc87f18163123b2eb3a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T170000Z
-SUMMARY:סדנת יין וגבינות
-LOCATION:מרכז צעירים\, גבורי ישראל 4\, כפר ס
- בא
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_863d557680397168ea3076b3@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T170000Z
-DTEND:20260908T190000Z
-SUMMARY:שלישי LIVE – חגיגת רוקנרול עם להקת 
- סודה
-LOCATION:אמפי ספיר בקריית ספיר\, רח' ירושל
- ים 35\, כפר סבא
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_39eff17c337c8abe54156bd3@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260908T210000Z
-SUMMARY:"תנוענתי - עם ענת" - חוג תנועה לגיל
- אי 2 - 5 שנים
-LOCATION:בית לגיל הרך אולם 1 (רחוב הדרים 46)\
- , הוד השרון
-DESCRIPTION:חוג "תנוענתי - עם ענת" - חוג תנוע
- ה לגילאי 2 - 5 שנים פרטים נוספים "תנוענ
- תי - עם ענת" - חוג תנועה לגילאי 2 - 5 שנים
-  בית לגיל הרך אולם 1 (רחוב הדרים 46) יום 
- רביעי 09/09/2026 הכרטיסים אזלו
-URL:https://aluma.smarticket.co.il/תנוענתי_-_תנועה_עם_
- ענת/?id=4814
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_7b6e1b3bdc1faf7611907f2e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260909T060000Z
-SUMMARY:זיו אלכסנדרוני + דר מיכל יערי
-LOCATION:אודיטוריום כפר סבא\, כפר סבא
-DESCRIPTION:09 ספטמבר זיו אלכסנדרוני + דר מי
- כל יערי זיו אלכסנדרוני + דר מיכל יערי 
- 09:00 דיזנגוף 99 -מדינת תל אביב -על הבועה 
- התל-אביבית משמעותה והשתקפותה בקולנו
- ע מרצה: זיו אלכסנדרוני – במאי ומרצה ל
- תולדות הקולנוע ... פרטים נוספים זיו אל
- כסנדרוני + דר מיכל יערי קתדרה כפר סבא 
- אודיטוריום כפר סבא ביום רביעי\, 9 בספט
- מבר 2026 בשעה 09:00
-URL:https://ksaba.smarticket.co.il/זיו_אלכסנדרוני___ד
- ר_מיכל_יערי
-END:VEVENT
-BEGIN:VEVENT
-UID:occ_7bc4de54a373ef88371203bb@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
-DTSTART:20260909T060000Z
-SUMMARY:מכללת ותיקות/ים
-LOCATION:מרכז האמנויות הרב תחומי - אודיטו
- ריום לא מסומן\, הוד השרון
-DESCRIPTION:09 ספטמבר מכללת ותיקות/ים פרטים 
- נוספים מכללת ותיקות/ים מרכז האמנויות
-  הרב תחומי - אודיטוריום לא מסומן ביום 
- רביעי\, 9 בספטמבר 2026 בשעה 09:00
-URL:https://aluma.smarticket.co.il/מכללת_ותיקות_ים/?id=
- 4750
-END:VEVENT
-BEGIN:VEVENT
 UID:occ_6b1a16286e10243154ee61a0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260909T074500Z
 SUMMARY:"חיבוק בשניים" בהנחיית טלי פקלירו
   \, לגילאי 7 חודשים עד שנה וחצי
@@ -143,21 +16,22 @@ DESCRIPTION:09 ספטמבר "חיבוק בשניים" בהנחיית
  חצי פרטים נוספים "חיבוק בשניים" בהנחי
  ית טלי פקלירו \, לגילאי 7 חודשים עד שנה
   וחצי בית לגיל הרך אולם 1 (רחוב הדרים 46
- ) ביום רביעי\, 9 בספטמבר 2026 בשעה 10:45
+ ) ביום רביעי\, 9 בספטמבר 2026 בשעה 10:45 הכר
+ טיסים אזלו
 URL:https://aluma.smarticket.co.il/_חיבוק_בשניים__בהנ
  חיית_טלי_פקלירו___לגילאי_7_חודשים_עד_ש
  נה_וחצי/?id=4770
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7addf3dda601cb55579bf280@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260909T140000Z
 SUMMARY:הפנינג אופניים קהילתי
 LOCATION:מדרחוב ירושלים\, כפר סבא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_630dd301238b16f9db85035c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260909T140000Z
 SUMMARY:קונטקט קידס לקטנטנים
 LOCATION:מרכז קהילתי הראשונים\, רחוב רופי
@@ -165,7 +39,7 @@ LOCATION:מרכז קהילתי הראשונים\, רחוב רופי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_45669bc6912b05c0f275ede8@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260909T140000Z
 DTEND:20260909T160000Z
 SUMMARY:תיקון אופניים
@@ -174,7 +48,7 @@ LOCATION:מדרחוב ירושלים\, מדרחוב ירושלים\,
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_4a02b76cbe6d89e710642dfb@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260909T163000Z
 SUMMARY:ערב הוקרה למתנדבות ומתנדבי כפר ס
  בא
@@ -182,7 +56,7 @@ LOCATION:היכל התרבות העירוני\, כפר סבא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_95b624449b490fa8870e189b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260909T170000Z
 SUMMARY:שמש נצחית בראש צלול והרצאה של אמי
  ר שינבוים
@@ -199,7 +73,7 @@ URL:https://aluma.smarticket.co.il/שמש_נצחית_בראש_צלו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_80f82942f513e720616ffc83@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260910T060000Z
 SUMMARY:גן עם אמאבא
 LOCATION:בית לגיל הרך אולם 3 (רחוב הדרים 46)\
@@ -212,7 +86,7 @@ URL:https://aluma.smarticket.co.il/גן_עם_אמאבא/?id=4791
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_02f2181173497475582a407c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260910T130000Z
 SUMMARY:משחקייה זמן משחק חופשי
 LOCATION:בית לגיל הרך - משחקייה (רחוב הדרי
@@ -227,7 +101,7 @@ URL:https://aluma.smarticket.co.il/משחקייה_זמן_משחק_ח
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c57c981cc2d82cda1e6e1019@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260910T180000Z
 DTEND:20260910T220000Z
 SUMMARY:RED AXES
@@ -239,8 +113,24 @@ DESCRIPTION:10 ספטמבר RED AXES פרטים נוספים RED AXE
 URL:https://aluma.smarticket.co.il/RED_AXES/?id=4843
 END:VEVENT
 BEGIN:VEVENT
+UID:occ_d2f36245c91289f076ea902d@kfar-saba-events.local
+DTSTAMP:20260909T060008Z
+DTSTART:20260911T090000Z
+SUMMARY:לילי וענת השכרת אולם/חדר הדרכה יו
+ לי 26
+LOCATION:בית לגיל הרך (רחוב הדרים 46)\, הוד ה
+ שרון
+DESCRIPTION:11 ספטמבר לילי וענת השכרת אולם/ח
+ דר הדרכה יולי 26 פרטים נוספים לילי וענ
+ ת השכרת אולם/חדר הדרכה יולי 26 בית לגי
+ ל הרך (רחוב הדרים 46) ביום שישי\, 11 בספט
+ מבר 2026 בשעה 12:00
+URL:https://aluma.smarticket.co.il/דמי_שכירות_אולמות_
+ פעילות_וחדרי_הדרכה/?id=4928
+END:VEVENT
+BEGIN:VEVENT
 UID:occ_9d76279fc94471921846cfd4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260914T060000Z
 SUMMARY:בייבי בוקר - משחקייה לקטנטנים - זמ
  ן משחק חופשי עד גיל שנתיים וחצי
@@ -259,7 +149,7 @@ URL:https://aluma.smarticket.co.il/בייבי_בוקר_-_משחקי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_22ec7680a69f51b5c7f77e33@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260915T060000Z
 SUMMARY:100 באוריינות דיגיטלית - וואטסאפ - 
  סדנה למתקדמים
@@ -276,7 +166,7 @@ URL:https://aluma.smarticket.co.il/_100_באוריינות_דיגי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_140063667ea4ab9031c3a835@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260915T063000Z
 DTEND:20260915T093000Z
 SUMMARY:גן עם אמא או אבא
@@ -285,7 +175,7 @@ LOCATION:מרכז קהילתי שרת-בית הסטודנט\, רחו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_4a31cf7a23d7b45bd62763d9@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260915T140000Z
 SUMMARY:הַוִּיטְרִינָה שֶׁל סָבְתָא - תי
  אטרון הבובנאיות החופשיות
@@ -304,7 +194,7 @@ URL:https://aluma.smarticket.co.il/ה_ו__יט_ר_ינ_ה_ש__ל_ס_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_f32cfcaa35ced0f475e16e1c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260915T154500Z
 SUMMARY:ערב ריקודי עם ושורות
 LOCATION:סטודיו – מרכז האמנויות הרב תחומ
@@ -318,7 +208,7 @@ URL:https://aluma.smarticket.co.il/ערב_ריקודי_עם_ושור
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_5e5bd807e88fc24d52a94d0c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260915T163000Z
 SUMMARY:סדנת Nia מרגשת
 LOCATION:מרכז קהילתי הראשונים\, רחוב רופי
@@ -326,7 +216,7 @@ LOCATION:מרכז קהילתי הראשונים\, רחוב רופי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_513279823461d26042be471c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260915T173000Z
 SUMMARY:מצחיקונת
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -342,7 +232,7 @@ URL:https://ksaba.smarticket.co.il/מצחיקונת
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_d08256555b0d45a6f2ecfa92@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260916T060000Z
 SUMMARY:שחר שקלש + דר' עטר מילוא
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -360,7 +250,7 @@ URL:https://ksaba.smarticket.co.il/שחר_שקלש___דר__עטר_מ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a05aa0996fa5c1d77811d653@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260916T070000Z
 SUMMARY:עולם הדיגיטל : כוח המוח - שימור קו
  גנטיבי באמצעות משחקים דיגיטליים
@@ -377,7 +267,7 @@ URL:https://aluma.smarticket.co.il/עולם_הדיגיטל_במרכ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b15d2dc6ab9e668f875a9490@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260916T130000Z
 SUMMARY:מאחורי הקלפים - משחק מודרך בברידג
  '
@@ -392,14 +282,14 @@ URL:https://aluma.smarticket.co.il/ברידג_/?id=4859
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_26c6458309ad9b77652d65ec@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260916T180000Z
 SUMMARY:המופע של מאור כהן
 LOCATION:הגן הארכיאולוגי כפר סבא\, כפר סבא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0094c5ff6040b46acf5e0ee0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260917T061500Z
 SUMMARY:פרופ' רביד דורון + גרי פאל
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -417,7 +307,7 @@ URL:https://ksaba.smarticket.co.il/פרופ__רביד_דורון___
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_3792c31dc0a77a05974c8e67@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260917T141500Z
 SUMMARY:מפגש חשיפה לריקודים סלונים Little Sta
  rs לגילאי 6-9
@@ -433,7 +323,7 @@ URL:https://aluma.smarticket.co.il/מפגש_חשיפה_לריקוד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_e290a0af2045973f75fdc27b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260917T183100Z
 SUMMARY:אלי פיניש
 LOCATION:בית מקומי לתרבות - מסומן\, הוד השר
@@ -445,7 +335,7 @@ URL:https://aluma.smarticket.co.il/אלי_פיניש/?id=4811
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_fa537268524a10801e17e4e9@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260918T054500Z
 SUMMARY:משפחה מצילה - קורס עזרה ראשונה\, ל
  הורים לילדים בגילאי לידה עד 8 שנים
@@ -457,13 +347,13 @@ DESCRIPTION:18 ספטמבר משפחה מצילה - קורס עזר
  ורס עזרה ראשונה\, להורים לילדים בגילא
  י לידה עד 8 שנים בית לגיל הרך אולם 3 (רח
  וב הדרים 46) ביום שישי\, 18 בספטמבר 2026 בש
- עה 08:45
+ עה 08:45 הכרטיסים אזלו
 URL:https://aluma.smarticket.co.il/משפחה_מצילה_-_קורס_
  עזרה_ראשונה/?id=4692
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c60f962bd8359948dbf40375@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260918T120000Z
 SUMMARY:תחרות שחמט לפי קטגוריות גיל – מו
  עדון השחמט הוד השרון
@@ -481,7 +371,7 @@ URL:https://aluma.smarticket.co.il/תחרות_שחמט_לפי_קטג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8f6a9d0b36fd6654e853ac75@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260918T180000Z
 DTEND:20260918T220000Z
 SUMMARY:ASTRAL PROJECTION
@@ -495,7 +385,7 @@ URL:https://aluma.smarticket.co.il/ASTRAL_PROJECTION/?id=4895
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_16e93ed4432411cafd829bf0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260919T080000Z
 SUMMARY:זאביקו
 LOCATION:בית מקומי לתרבות - מסומן\, הוד השר
@@ -507,8 +397,17 @@ DESCRIPTION:19 ספטמבר זאביקו פרטים נוספים ז
 URL:https://aluma.smarticket.co.il/זאביקו/?id=4856
 END:VEVENT
 BEGIN:VEVENT
+UID:occ_e1ae19a23ca9867e9a5ea0f7@kfar-saba-events.local
+DTSTAMP:20260909T060008Z
+DTSTART:20260919T080000Z
+SUMMARY:מופע מחול ושיח גלריה בתערוכה ״הי
+ חיד״
+LOCATION:הגלריה העירונית כפר סבא\, רח׳ גאו
+ לה 12\, כפר סבא
+END:VEVENT
+BEGIN:VEVENT
 UID:occ_05cc4e179c1e44b001990ce0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260919T180000Z
 SUMMARY:"מיקי כאן – תוכנית בידור חדשה"
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -526,7 +425,7 @@ URL:https://ksaba.smarticket.co.il/_מיקי_כאן___תוכנית_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_54d05cd91766b0dce3ab7649@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260919T183000Z
 SUMMARY:שלומי קוריאט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -542,7 +441,7 @@ URL:https://ksaba.smarticket.co.il/שלומי_קוריאט_6377
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_95ae5e5e65d3e95a91fc4cb0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260922T134500Z
 SUMMARY:Connect משחקי תנועה - סדנת תנועה לגיל
   הרך בשיתוף ההורה - מפגש חד פעמי גילאי
@@ -562,7 +461,7 @@ URL:https://aluma.smarticket.co.il/Connect_משחקי_תנועה_-_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2996116b2214ea76fe711127@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260922T140000Z
 SUMMARY:שעת סיפור לגילאי 2-5 שנים "מעשה בצנ
  צנת דבש"
@@ -578,7 +477,7 @@ URL:https://aluma.smarticket.co.il/הקסם_של_ענתי_-__שעת_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b59ed98dd37c09b4c6135dd8@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260922T143500Z
 SUMMARY:Connect משחקי תנועה - סדנת תנועה לגיל
   הרך בשיתוף ההורה - מפגש חד פעמי גילאי
@@ -598,7 +497,7 @@ URL:https://aluma.smarticket.co.il/Connect_משחקי_תנועה_-_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_9c5c37240b89aa067aef52f1@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260923T060000Z
 SUMMARY:צחי ברדוגו + איתי גרופר
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -616,7 +515,7 @@ URL:https://ksaba.smarticket.co.il/צחי_ברדוגו___איתי_ג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c1e85817eda14edca405f839@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260923T170000Z
 SUMMARY:להקת "צלילי בגדד" - חפלה עיראקית ב
  לב כפר סבא!
@@ -636,7 +535,7 @@ URL:https://ksaba.smarticket.co.il/להקת__צלילי_בגדד__-_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_139c7412b6f770a82f8c44c3@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260924T061500Z
 SUMMARY:פרופ' עוזי רבי + דר עטר מילוא
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -654,7 +553,7 @@ URL:https://ksaba.smarticket.co.il/פרופ__עוזי_רבי___דר_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_33af41ec90ac394c7f83b3fe@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260924T180000Z
 DTEND:20260924T220000Z
 SUMMARY:MAGIT CACOON
@@ -667,7 +566,7 @@ URL:https://aluma.smarticket.co.il/MAGIT_CACOON/?id=4894
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_52af1db58c4159e685e3514c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260924T183000Z
 SUMMARY:דב נבון
 LOCATION:בית מקומי לתרבות - מסומן\, הוד השר
@@ -679,7 +578,7 @@ URL:https://aluma.smarticket.co.il/דב_נבון/?id=4459
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b83e3ec38ece2b4fa5bb1912@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260927T060000Z
 SUMMARY:איתי גרופר + שחר שקלש
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -696,7 +595,7 @@ URL:https://ksaba.smarticket.co.il/איתי_גרופר___שחר_שק
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_281f35d80b1f9d8c644c7109@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260927T060000Z
 SUMMARY:להיות חוקרי טבע - סדנה רב דורית עם
   סבא/תא
@@ -712,7 +611,7 @@ URL:https://aluma.smarticket.co.il/להיות_חוקרי_טבע_-_ס
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_6eb4382b6736b27855bede1e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260927T060000Z
 DTEND:20261001T090000Z
 SUMMARY:קורסים בסוכות בקיפוד
@@ -720,7 +619,7 @@ LOCATION:מרכז קיפוד\, כפר סבא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_831773e1399a6d31332a2f79@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260927T070000Z
 SUMMARY:"סוכת החברים" עם ציפי הינדי לגילא
  י שנה עד שנתיים
@@ -736,7 +635,7 @@ URL:https://aluma.smarticket.co.il/ציפי_הינדי_בבית_לג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ffa914f258a23070e9e997fc@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260927T073000Z
 SUMMARY:מועדון קריאה 27.9.26 | סיפור קצר
 LOCATION:הסיפרייה העירונית הוד השרון - בי
@@ -750,7 +649,7 @@ URL:https://aluma.smarticket.co.il/מועדון_קריאה/?id=4398
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_4ce7100d4f6a57220f424b96@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260927T073000Z
 SUMMARY:שקיות ריח - צמחי התבלין
 LOCATION:חדר רב תכליתי - מרכז האמנויות הרב
@@ -765,7 +664,7 @@ URL:https://aluma.smarticket.co.il/שקיות_ריח_-_צמחי_הת
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2d823301d990a721a502cd9d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260928T063000Z
 SUMMARY:סדנת אילוף כלבים כיתות ג'-ד'
 LOCATION:מרכז האמנויות הרב תחומי - כיתת לי
@@ -780,7 +679,7 @@ URL:https://aluma.smarticket.co.il/סדנת_אילוף_כלבים_כ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_9c966bdec18a8288f1267014@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260928T073000Z
 SUMMARY:סדנת אילוף כלבים כיתות ג'-ד'
 LOCATION:מרכז האמנויות הרב תחומי - כיתת לי
@@ -795,7 +694,7 @@ URL:https://aluma.smarticket.co.il/סדנת_אילוף_כלבים_כ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_946ed576d6a365ad64588516@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260928T080000Z
 SUMMARY:מאשה והדוב - בקרקס
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -812,7 +711,7 @@ URL:https://ksaba.smarticket.co.il/מאשה_והדוב_-_בקרקס_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_910f75d30ff490d678ef8061@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260929T070000Z
 SUMMARY:סיפור על בלונים - לגילאי זחילה וע
  ד הליכה
@@ -828,7 +727,7 @@ URL:https://aluma.smarticket.co.il/סיפורותם_-_שעת_סיפ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_65c7c4776428d153c3edc757@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260929T140000Z
 SUMMARY:סדנת קרמיקה לילדות/ים בשעה 18:00
 LOCATION:חדר 10 - מרכז האמנויות הרב תחומי\, 
@@ -842,8 +741,23 @@ URL:https://aluma.smarticket.co.il/סדנת_קרמיקה_לילדו
  ת_ים_בשעה_18_00/?id=4905
 END:VEVENT
 BEGIN:VEVENT
+UID:occ_1a96345bd62efa8226b56129@kfar-saba-events.local
+DTSTAMP:20260909T060008Z
+DTSTART:20260929T143000Z
+SUMMARY:מסע צלילים מדיטטיבי עם אוזניות ב
+ שקיעה
+LOCATION:הפארק האקולוגי\, הוד השרון
+DESCRIPTION:29 ספטמבר מסע צלילים מדיטטיבי ע
+ ם אוזניות בשקיעה פרטים נוספים מסע צל
+ ילים מדיטטיבי עם אוזניות בשקיעה הפאר
+ ק האקולוגי ביום שלישי\, 29 בספטמבר 2026 ב
+ שעה 17:30 ההרשמה טרם נפתחה
+URL:https://aluma.smarticket.co.il/גוף-נפש-קהילה_ספטמ
+ בר-דצמבר_2026/?id=4930
+END:VEVENT
+BEGIN:VEVENT
 UID:occ_af93f7980897b80f7201b838@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260929T150000Z
 SUMMARY:סדנת קרמיקה לילדות/ים בשעה 18:00
 LOCATION:חדר 10 - מרכז האמנויות הרב תחומי\, 
@@ -858,7 +772,7 @@ URL:https://aluma.smarticket.co.il/סדנת_קרמיקה_לילדו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a8f4c328027542f4741041f4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260930T063000Z
 SUMMARY:סדנת קומיקס ומנגה
 LOCATION:מרכז האמנויות הרב תחומי - כיתת לי
@@ -873,7 +787,7 @@ URL:https://aluma.smarticket.co.il/סדנת_קומיקס_ומנגה/
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_08978563cc9503594ec1be8e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260930T070000Z
 SUMMARY:הדרדסים ההצגה - LIVE על הבמה
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -891,7 +805,7 @@ URL:https://ksaba.smarticket.co.il/הדרדסים_ההצגה_-_LIVE_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_669f80e9ff6cc7e4fc719550@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260930T074500Z
 SUMMARY:סדנת מבוכים ודרקונים כיתות ד'-ו'
 LOCATION:מרכז האמנויות הרב תחומי - כיתת לי
@@ -906,7 +820,7 @@ URL:https://aluma.smarticket.co.il/סדנת_מבוכים_ודרקו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ef693ffe38b28f380f698f14@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260930T084500Z
 SUMMARY:סדנת מבוכים ודרקונים כיתות ד'-ו'
 LOCATION:מרכז האמנויות הרב תחומי - כיתת לי
@@ -921,7 +835,7 @@ URL:https://aluma.smarticket.co.il/סדנת_מבוכים_ודרקו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c7f9cb05cd98bd302af34c81@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260930T140000Z
 SUMMARY:איה פלוטו
 LOCATION:בית מקומי לתרבות - מסומן\, הוד השר
@@ -933,7 +847,7 @@ URL:https://aluma.smarticket.co.il/איה_פלוטו/?id=4857
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_cf6463e69ba05ec6318c6bef@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20260930T170000Z
 SUMMARY:לינק פעילויות כללי - פעילויות הבי
  ת לגיל הרך חודש ספטמבר 26 (בתיאום מול ה
@@ -952,7 +866,7 @@ URL:https://aluma.smarticket.co.il/לינק_כללי_-_פעילוי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_be699056a9b1382a945372c9@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261001T090000Z
 SUMMARY:הדר לוי במופע סטנדאפ לילדים
 LOCATION:בית מקומי לתרבות - מסומן\, הוד השר
@@ -966,7 +880,7 @@ URL:https://aluma.smarticket.co.il/הדר_לוי_במופע_סטנד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_5878579332fd4da5b9819bcf@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261003T080000Z
 SUMMARY:הבית של יעל- מיקי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -983,7 +897,7 @@ URL:https://ksaba.smarticket.co.il/הבית_של_יעל-_מיקי_64
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_973ec52019e105ff4a2c5c5c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261004T060000Z
 SUMMARY:רועי אלוני + דר' עטר מילוא
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1001,7 +915,7 @@ URL:https://ksaba.smarticket.co.il/רועי_אלוני___דר__עט
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7c08046626255cd6db1fda0a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261004T070000Z
 SUMMARY:ראשון + סרט: אפס ביחסי אנוש
 LOCATION:מרכז האמנויות הרב תחומי - אודיטו
@@ -1016,7 +930,7 @@ URL:https://aluma.smarticket.co.il/ראשון___סרט__מעודדו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8d65611550aeebba4b6c8a8c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261005T060000Z
 SUMMARY:לגילאי 9 חודשים עד שנתיים
 LOCATION:בית לגיל הרך אולם 3 (רחוב הדרים 46)\
@@ -1030,7 +944,7 @@ URL:https://aluma.smarticket.co.il/גן_בתנועה_עם_עדי_ש
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0579f7c194d4774e33900c43@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261005T063000Z
 SUMMARY:עיסוי תינוקות ובייבי יוגה - שיעור
   ניסיון גיליאי 0-3 חודשים
@@ -1045,7 +959,7 @@ URL:https://aluma.smarticket.co.il/ברנש_בייבי/?id=4848
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0d70616e08d71888999ca17e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261005T140000Z
 SUMMARY:ליאתי לקטנטנים גילאי שנה וחצי עד 
  שנתיים - רכבת ההפתעות
@@ -1062,7 +976,7 @@ URL:https://aluma.smarticket.co.il/ליאתי_וקטנטנים/?id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_6cd750765baa1cc399a20ad4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261006T070000Z
 SUMMARY:סדנת נחוגה חודש אוקטובר- לגילאי 5 
  חודשים עד זחילה (ללא זחילה)
@@ -1079,7 +993,7 @@ URL:https://aluma.smarticket.co.il/סדנאות_לגיל_הרך-_נ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b35e72ed073ff4eb03e622c8@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261007T060000Z
 SUMMARY:רועי אלוני + דר' אבי אלון
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1096,7 +1010,7 @@ URL:https://ksaba.smarticket.co.il/רועי_אלוני___דר__אב
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_df99b248f34974245243b7b4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261007T063000Z
 SUMMARY:סדנת ייעוץ שינה חודש אוקטובר - סד
  רה 3 מפגשים בהנחיית נטעלי
@@ -1113,7 +1027,7 @@ URL:https://aluma.smarticket.co.il/על_שינה_ומשפחה_בהנ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1f0400e63145adbd6dae401b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261007T140000Z
 DTEND:20261007T150000Z
 SUMMARY:קבוצת אחיות ואחים לילדים מיוחדים
@@ -1122,7 +1036,7 @@ LOCATION:בית למשפחות מיוחדות\, אלקלעי 1\, כ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2f6ed8f6b4933b7791881331@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261008T061500Z
 SUMMARY:אירי ריקין + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1139,7 +1053,7 @@ URL:https://ksaba.smarticket.co.il/אירי_ריקין___הקרנת_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7c69e1efa5400cd82227fe43@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261008T150000Z
 DTEND:20261008T154500Z
 SUMMARY:שיעור ניסיון באילוף ותקשורת עם כ
@@ -1149,7 +1063,7 @@ LOCATION:מרכז קהילתי בית הסטודנט\, רחוב מש
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_56bebef8171d4a417b27dec4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261010T080000Z
 SUMMARY:איתמר מטייל על קירות
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1166,7 +1080,7 @@ URL:https://ksaba.smarticket.co.il/איתמר_מטייל_על_קיר
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_28d82bf30c7b45b83aef0793@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261010T173000Z
 SUMMARY:ללכת שבי אחריה- יעל אודם ואביטל ד
  קל חן
@@ -1182,7 +1096,7 @@ URL:https://aluma.smarticket.co.il/ללכת_שבי_אחריה-_יע
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b905e335f6eb6d1863e57b5d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261010T180000Z
 SUMMARY:יאסו - האהבה היוונית שלי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1200,7 +1114,7 @@ URL:https://ksaba.smarticket.co.il/יאסו_-_האהבה_היוונ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b3063cbf33107cd882b6d183@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261010T183000Z
 SUMMARY:רשף לוי - סטנדאפ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1214,7 +1128,7 @@ URL:https://ksaba.smarticket.co.il/רשף_לוי_-_סטנדאפ_6498
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_5c20cb08e329bffc487877ba@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261011T060000Z
 SUMMARY:פרופ' עוזי רבי + הלל יגל
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1231,7 +1145,7 @@ URL:https://ksaba.smarticket.co.il/פרופ__עוזי_רבי___הל
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_49d7d772f0ad392af992c1fa@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261011T160000Z
 SUMMARY:סדנת קרמיקה למבוגרות/ים
 LOCATION:חדר 9 - מרכז האמנויות הרב תחומי\, ה
@@ -1245,7 +1159,7 @@ URL:https://aluma.smarticket.co.il/סדנת_קרמיקה_למבוג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_4deed77db26f3105725ea9e5@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261012T140000Z
 SUMMARY:דן דן הנגן בבית לגיל הרך - סתיו
 LOCATION:בית לגיל הרך אולם 1 (רחוב הדרים 46)\
@@ -1260,7 +1174,7 @@ URL:https://aluma.smarticket.co.il/דן_דן_הנגן_בבית_לג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_d1f4600bb9135140cb72ee76@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261012T143000Z
 SUMMARY:ספר הג’ונגל המחזמר
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1278,7 +1192,7 @@ URL:https://ksaba.smarticket.co.il/ספר_הג_ונגל_המחזמר
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1bd28b8153deb6c603a6e5e4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261012T173000Z
 SUMMARY:מחווה לפול סיימון- לרגל יום הולדת
  ו ה- 85
@@ -1294,7 +1208,7 @@ URL:https://aluma.smarticket.co.il/מחווה_לפול_סיימון-
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_568678d68f0bab0ef0a4ce46@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261013T060000Z
 SUMMARY:100 באוריינות דיגיטלית - אלבום דיג
  יטלי
@@ -1310,8 +1224,25 @@ URL:https://aluma.smarticket.co.il/_100_באוריינות_דיגי
  טלית_-_אלבום_דיגיטלי/?id=4744
 END:VEVENT
 BEGIN:VEVENT
+UID:occ_7bf3a52a6df4f3b93e0cf069@kfar-saba-events.local
+DTSTAMP:20260909T060008Z
+DTSTART:20261013T140000Z
+SUMMARY:ליאתי ולה-לה גם – "מתחילים בחיוך"\
+ , לגילאי שנתיים עד 3 שנים
+LOCATION:בית לגיל הרך אולם 3 (רחוב הדרים 46)\
+ , הוד השרון
+DESCRIPTION:13 אוקטובר ליאתי ולה-לה גם – "מת
+ חילים בחיוך"\, לגילאי שנתיים עד 3 שנים 
+ פרטים נוספים ליאתי ולה-לה גם – "מתחיל
+ ים בחיוך"\, לגילאי שנתיים עד 3 שנים בית
+  לגיל הרך אולם 3 (רחוב הדרים 46) ביום של
+ ישי\, 13 באוקטובר 2026 בשעה 17:00
+URL:https://aluma.smarticket.co.il/ליאתי_ולה-לה_גם/?id=4
+ 913
+END:VEVENT
+BEGIN:VEVENT
 UID:occ_6b33653d7acef8c7eee21236@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261013T163000Z
 SUMMARY:הדרך בינינו: החילוץ האולטימטיבי
 LOCATION:מרכז האמנויות הרב תחומי - אודיטו
@@ -1327,7 +1258,7 @@ URL:https://aluma.smarticket.co.il/הדרך_בינינו__החילו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c89f8219928319f73006d9e5@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261014T060000Z
 SUMMARY:איילת איידלברג + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1345,7 +1276,7 @@ URL:https://ksaba.smarticket.co.il/איילת_איידלברג___ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_705ca1f1aac8b78b76b08e3a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261014T140000Z
 SUMMARY:חברים על הגשר
 LOCATION:בית מקומי לתרבות - מסומן\, הוד השר
@@ -1358,7 +1289,7 @@ URL:https://aluma.smarticket.co.il/חברים_על_הגשר/?id=4466
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ae60a23848a71ac1e4563565@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261015T061500Z
 SUMMARY:אשר גניס + איתי גרופר
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1376,7 +1307,7 @@ URL:https://ksaba.smarticket.co.il/אשר_גניס___איתי_גרו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_506f80cc8cf2347715d07539@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261015T160000Z
 SUMMARY:רישום מודל בעיפרון ובפחם
 LOCATION:חדר רב תכליתי - מרכז האמנויות הרב
@@ -1391,7 +1322,7 @@ URL:https://aluma.smarticket.co.il/רישום_מודל_בעיפרו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_793f9b214908088da7686b4c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261015T173000Z
 SUMMARY:Tiempo de Argentina פיאצולה: מוסיקה מסעיר
  ת חושים
@@ -1407,7 +1338,7 @@ URL:https://aluma.smarticket.co.il/Tiempo_de_Argentina_פיאצול
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b4f1263a30e6f8484c6e7385@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261015T173000Z
 SUMMARY:דני סנדרסון
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1419,7 +1350,7 @@ URL:https://ksaba.smarticket.co.il/דני_סנדרסון_6477
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1e6731e1d0584a5ff013d25a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261016T183000Z
 SUMMARY:MADONNA – THE TRIBUTE SHOW
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1435,7 +1366,7 @@ URL:https://ksaba.smarticket.co.il/MADONNA___THE_TRIBUTE_SHOW
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_dbc1ec29ac43e03fa4bff835@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261016T190000Z
 SUMMARY:יונתן ברק בסיבוב הופעות מספר 8 - "א
  באל'ה"
@@ -1454,7 +1385,7 @@ URL:https://ksaba.smarticket.co.il/יונתן_ברק_בסיבוב_ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7fa860fb879ef36bb76f8655@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261017T080000Z
 SUMMARY:קוגומלו- ״שכחו אותי בג'ונגל"
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1472,7 +1403,7 @@ URL:https://ksaba.smarticket.co.il/קוגומלו-__שכחו_אות
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2a67920a08dcf9321f6a91db@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261017T180000Z
 SUMMARY:גורי אלפי
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1486,7 +1417,7 @@ URL:https://ksaba.smarticket.co.il/גורי_אלפי_6481
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ae377df15a212214422bf68d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261018T060000Z
 SUMMARY:איילת איידלברג + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1504,7 +1435,7 @@ URL:https://ksaba.smarticket.co.il/איילת_איידלברג___ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_dbcc168b7c3af393ee9eb857@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261020T173000Z
 SUMMARY:לילות ספרד - מחזמר
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1521,7 +1452,7 @@ URL:https://ksaba.smarticket.co.il/לילות_ספרד_-_מחזמר_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_9883614ae983ddaacae16f42@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261021T060000Z
 SUMMARY:טל בן אור + סבין יעקובוביץ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1539,7 +1470,7 @@ URL:https://ksaba.smarticket.co.il/טל_בן_אור___סבין_יע
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_3c98c79328fcf4fd187a66af@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261022T061500Z
 SUMMARY:רועי אלוני + סבין יעקובוביץ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1557,7 +1488,7 @@ URL:https://ksaba.smarticket.co.il/רועי_אלוני___סבין_י
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_710bd1bc06f528dcb2bfdd6a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261022T183000Z
 SUMMARY:חן מזרחי במופע סטנדאפ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1571,7 +1502,7 @@ URL:https://ksaba.smarticket.co.il/חן_מזרחי_במופע_סטנ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_869516be9bbc841c3557866c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261023T180000Z
 SUMMARY:נישואים גרעיניים - קומדיה זוגית פ
  רועה ומצחיקה!
@@ -1591,7 +1522,7 @@ URL:https://ksaba.smarticket.co.il/נישואים_גרעיניים_-
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_09d2b2db12833cc808cfed2e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261024T080000Z
 SUMMARY:ברכבת יושבת ארנבת
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1607,7 +1538,7 @@ URL:https://ksaba.smarticket.co.il/ברכבת_יושבת_ארנבת
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ad72cdc44012583bc3a424ab@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261024T180000Z
 SUMMARY:בילי שוורץ
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1623,7 +1554,7 @@ URL:https://ksaba.smarticket.co.il/בילי_שוורץ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b6c3ddbdc2675a4e58016dbb@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261024T180000Z
 SUMMARY:שירה עם ציבור - אילן טל\, יוסי גרוש
  קה "שירי דרך"
@@ -1643,7 +1574,7 @@ URL:https://ksaba.smarticket.co.il/שירה_עם_ציבור_-_איל
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_363b97dd3523d27b64d7ebc6@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261025T070000Z
 SUMMARY:אשר גניס + סבין יעקובוביץ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1661,7 +1592,7 @@ URL:https://ksaba.smarticket.co.il/אשר_גניס___סבין_יעק
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0ae931831f32c413cd0a6170@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261028T070000Z
 SUMMARY:אשר גניס + הלל יגל
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1677,7 +1608,7 @@ URL:https://ksaba.smarticket.co.il/אשר_גניס___הלל_יגל
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_f622241782c4dd0dd991754a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261028T183000Z
 SUMMARY:בלוז לתוך הלילה – ג'אז חם
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1694,7 +1625,7 @@ URL:https://ksaba.smarticket.co.il/בלוז_לתוך_הלילה___ג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_da7ad0a153622d3c5b7ad4fe@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261029T071500Z
 SUMMARY:איילת איידלברג + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1712,7 +1643,7 @@ URL:https://ksaba.smarticket.co.il/איילת_איידלברג___ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2ae0d8645b384cb96aa6d8e1@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261029T160000Z
 SUMMARY:נראתה לאחרונה - תיאטרון אורנה פור
  ת
@@ -1731,7 +1662,7 @@ URL:https://ksaba.smarticket.co.il/נראתה_לאחרונה_-_תי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_e19c6a3cc93417dce5c54a3b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261029T183000Z
 SUMMARY:הזוג המוזר - תיאטרון חיפה
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1749,7 +1680,7 @@ URL:https://ksaba.smarticket.co.il/הזוג_המוזר_-_תיאטר
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_fa1c558c0adb515e7ea5b1a8@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261030T200000Z
 SUMMARY:אבי נוסבאום
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1765,7 +1696,7 @@ URL:https://ksaba.smarticket.co.il/אבי_נוסבאום_6480
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8824aa4bce4b52031a5fa49a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261031T193000Z
 SUMMARY:אורי חזקיה - סטנדאפ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1779,7 +1710,7 @@ URL:https://ksaba.smarticket.co.il/אורי_חזקיה_-_סטנדא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0db4d343cb3cba6ac656c6d2@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261101T070000Z
 SUMMARY:טל בן אור + גרי פאל
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1795,7 +1726,7 @@ URL:https://ksaba.smarticket.co.il/טל_בן_אור___גרי_פאל
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_d8816b6217f4bd4a7fcfb5be@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261104T070000Z
 SUMMARY:פרופ' עוזי רבי + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1813,7 +1744,7 @@ URL:https://ksaba.smarticket.co.il/פרופ__עוזי_רבי___הק
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8371b26fffed75dc87f61c8f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261104T153000Z
 SUMMARY:מהפכת התפוזים של מתי - תיאטרון או
  רנה פורת
@@ -1833,7 +1764,7 @@ URL:https://ksaba.smarticket.co.il/מהפכת_התפוזים_של_מ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_74e9ad1c6fc5f1e3c1881160@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261105T071500Z
 SUMMARY:טל בן אור + שחר שקלש
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1850,7 +1781,7 @@ URL:https://ksaba.smarticket.co.il/טל_בן_אור___שחר_שקל
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_662504d8d299a909155a4acf@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261105T180000Z
 SUMMARY:VOCA PEOPLE
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -1866,7 +1797,7 @@ URL:https://ksaba.smarticket.co.il/VOCA_PEOPLE
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_90bbbca0552afc960c45a6e8@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261106T080000Z
 DTEND:20261107T170000Z
 SUMMARY:בתים פתוחים
@@ -1874,7 +1805,7 @@ LOCATION:רחבי כפר סבא\, כפר סבא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_09664de0eb7ae74912cac438@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261106T190000Z
 SUMMARY:שקרים קטנים-קומדיה משפחתית מופרע
  ת
@@ -1893,7 +1824,7 @@ URL:https://ksaba.smarticket.co.il/שקרים_קטנים-קומדי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_02c514bab65877cdc495c574@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261107T090000Z
 SUMMARY:הסינור של רוני- ההצגה על פי רב המכ
  ר של רינת הופר
@@ -1913,7 +1844,7 @@ URL:https://ksaba.smarticket.co.il/הסינור_של_רוני-_הה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_36ff777bdba951ade95291ea@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261107T190000Z
 SUMMARY:מופע פתיחה עם יונית טובי – בימת ה
  זמר
@@ -1932,7 +1863,7 @@ URL:https://ksaba.smarticket.co.il/מופע_פתיחה_עם_יוני
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_09233d8b27e59e4f3aff20ad@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261108T070000Z
 SUMMARY:אורלי אלדובי + דנדן בולוטין
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1950,7 +1881,7 @@ URL:https://ksaba.smarticket.co.il/אורלי_אלדובי___דנד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_6367aa731444367444d548b3@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261111T070000Z
 SUMMARY:פרופ' רביד דורון + גרי פאל
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1968,7 +1899,7 @@ URL:https://ksaba.smarticket.co.il/פרופ__רביד_דורון___
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_29df7da5f4eaf44de5d9e242@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261112T071500Z
 SUMMARY:הלל יגל + צחי ברדוגו
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -1985,7 +1916,7 @@ URL:https://ksaba.smarticket.co.il/הלל_יגל___צחי_ברדוג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a3cf41a4348b44b1de4c1f68@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261112T183000Z
 SUMMARY:מיקה שלי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2001,7 +1932,7 @@ URL:https://ksaba.smarticket.co.il/מיקה_שלי_6456
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7f0b9994b7c952e6c0d399e5@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261112T190000Z
 SUMMARY:מני עוזרי
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2013,7 +1944,7 @@ URL:https://ksaba.smarticket.co.il/מני_עוזרי_6506
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_3726e333d70fde0b5cb70453@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261113T070000Z
 SUMMARY:שישי מהסרטים - המורה שהבטיח את הי
  ם
@@ -2032,7 +1963,7 @@ URL:https://ksaba.smarticket.co.il/שישי_מהסרטים_-_המו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ca69ac625623c86079b381c4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261113T193000Z
 SUMMARY:זוגיות AI
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2048,7 +1979,7 @@ URL:https://ksaba.smarticket.co.il/זוגיות_AI
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_6619cb1e83855cd91e2bb935@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261113T200000Z
 SUMMARY:דניאל חן
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2064,7 +1995,7 @@ URL:https://ksaba.smarticket.co.il/דניאל_חן_6489
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_89c01744ea79e1b69188c896@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261115T070000Z
 SUMMARY:אירי ריקין + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2081,7 +2012,7 @@ URL:https://ksaba.smarticket.co.il/אירי_ריקין___הקרנת_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_3dc25888bb6785f408489d29@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261117T183000Z
 SUMMARY:אריק דוידוב מארח את שלישיית אדלר 
  החדשה
@@ -2102,7 +2033,7 @@ URL:https://ksaba.smarticket.co.il/אריק_דוידוב_מארח_א
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_5b703a11cf88b5cbcbc84169@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261118T070000Z
 SUMMARY:אהד נבו + דנדן בולוטין
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2120,7 +2051,7 @@ URL:https://ksaba.smarticket.co.il/אהד_נבו___דנדן_בולו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_65598ca38c2be25f7151b3ee@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261118T143000Z
 SUMMARY:היי סקול דרמה - האקדמיה למדעי היו
  טיוב - חנוכה 2026
@@ -2140,7 +2071,7 @@ URL:https://ksaba.smarticket.co.il/היי_סקול_דרמה_-_האק
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_70c324335d2701b59694b40a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261118T190000Z
 SUMMARY:מרסדס סוסה - קול קולה של דרום אמרי
  קה!
@@ -2159,7 +2090,7 @@ URL:https://ksaba.smarticket.co.il/מרסדס_סוסה_-_קול_קו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_067abdc7e543e66ca8374c5f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261119T071500Z
 SUMMARY:דר' מיכל יערי + דנדן בולוטין
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2177,14 +2108,14 @@ URL:https://ksaba.smarticket.co.il/דר__מיכל_יערי___דנד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_46f4e8bb24128d6b8e5c6edc@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261119T190000Z
 SUMMARY:ברי סחרוף
 LOCATION:כפר סבא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_60930c2e70f433ecae1b089e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261119T190000Z
 SUMMARY:ברי סחרוף - LIVE בהיכל
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2198,7 +2129,7 @@ URL:https://ksaba.smarticket.co.il/ברי_סחרוף_-_LIVE_בהיכ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8ff029b3ee0267ea76eb02ef@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261120T193000Z
 SUMMARY:קובי מימון
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2210,7 +2141,7 @@ URL:https://ksaba.smarticket.co.il/קובי_מימון_6496
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0f6349ffdd4af292f0d4625f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261121T090000Z
 SUMMARY:"סבא אליעזר והגזר"!
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2226,7 +2157,7 @@ URL:https://ksaba.smarticket.co.il/_סבא_אליעזר_והגזר__
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_90973b979b9e810dfc91976d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261121T183000Z
 SUMMARY:״שושנה״
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2242,7 +2173,7 @@ URL:https://ksaba.smarticket.co.il/_שושנה_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_bf572fe7c09b0c1a5d8cbf9c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261121T190000Z
 SUMMARY:תמיר בר - סטנדאפ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2256,7 +2187,7 @@ URL:https://ksaba.smarticket.co.il/תמיר_בר_-_סטנדאפ_6512
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c40f801965e030bc436f67ab@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261122T070000Z
 SUMMARY:דר מיכל יערי + פרופ' ידידיה גפני
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2274,7 +2205,7 @@ URL:https://ksaba.smarticket.co.il/דר_מיכל_יערי___פרופ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ab7dfe737603677ffaf76143@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261122T153000Z
 SUMMARY:אליסה בארץ הפלאות – חנוכה 2026
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2292,7 +2223,7 @@ URL:https://ksaba.smarticket.co.il/אליסה_בארץ_הפלאות_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1308a3d3b15a8bae1633f4dd@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261123T190000Z
 SUMMARY:"לילות פיראוס"
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2308,7 +2239,7 @@ URL:https://ksaba.smarticket.co.il/_לילות_פיראוס_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_85a321112e5e3f71d9ebb1dd@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261125T070000Z
 SUMMARY:דר' בני פירסט + ערן כץ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2325,7 +2256,7 @@ URL:https://ksaba.smarticket.co.il/דר__בני_פירסט___ערן_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1f9dcb3154bdd1660f364622@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261126T071500Z
 SUMMARY:דר' בני פירסט + פרופ' גפני
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2343,7 +2274,7 @@ URL:https://ksaba.smarticket.co.il/דר__בני_פירסט___פרו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_259f770348a4cf7e4b8d4b5b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261126T183000Z
 SUMMARY:טרום בכורה בקולנוע - לראות את הסר
  טים הטובים לפני כולם
@@ -2363,7 +2294,7 @@ URL:https://ksaba.smarticket.co.il/טרום_בכורה_בקולנו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_935226d28fc37a3545025778@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261127T190000Z
 SUMMARY:דרור קרן במופע סטנדאפ חדש!
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2381,7 +2312,7 @@ URL:https://ksaba.smarticket.co.il/דרור_קרן_במופע_סטנ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1a23b8c18c361aa133c416df@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261127T190000Z
 SUMMARY:זוגות בזיגזג
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2397,7 +2328,7 @@ URL:https://ksaba.smarticket.co.il/זוגות_בזיגזג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0fdb658224fcdc2953197c4d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261128T090000Z
 SUMMARY:מחסן השטוזים של דתיה - תיאטרון או
  רנה פורת
@@ -2417,7 +2348,7 @@ URL:https://ksaba.smarticket.co.il/מחסן_השטוזים_של_דת
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c0352404f9c19c9d05ac2a01@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261128T190000Z
 SUMMARY:אסף מור יוסף בסטנדאפ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2434,7 +2365,7 @@ URL:https://ksaba.smarticket.co.il/אסף_מור_יוסף_בסטנד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0708255ed2271f92aa21758b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261128T190000Z
 SUMMARY:שנות הקסם “איש הרדיו”
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2452,7 +2383,7 @@ URL:https://ksaba.smarticket.co.il/שנות_הקסם__איש_הרד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_13443bc43195f25496d5c012@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261129T070000Z
 SUMMARY:דר' אבי אלון + ערן כץ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2469,7 +2400,7 @@ URL:https://ksaba.smarticket.co.il/דר__אבי_אלון___ערן_כ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_14757ab43ea0a822aee97db8@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261129T183000Z
 SUMMARY:החולה ההודי - הקאמרי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2486,7 +2417,7 @@ URL:https://ksaba.smarticket.co.il/החולה_ההודי_-_הקאמ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_66a7b22d32229b2d345b6cd7@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261130T183000Z
 SUMMARY:החולה ההודי - הקאמרי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2503,7 +2434,7 @@ URL:https://ksaba.smarticket.co.il/החולה_ההודי_-_הקאמ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1f6dc29c5ddec62f0c156666@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261201T183000Z
 SUMMARY:דיוקן אמן / תחנות בזמן איציק קלה - 
  תזמורת ירושלים מזרח מערב
@@ -2525,7 +2456,7 @@ URL:https://ksaba.smarticket.co.il/דיוקן_אמן___תחנות_ב
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_22f1f2b33799983ab2b698a7@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261202T070000Z
 SUMMARY:לימור צדוק + פרופ' ידידיה גפני
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2543,7 +2474,7 @@ URL:https://ksaba.smarticket.co.il/לימור_צדוק___פרופ__
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_013edb9c15e7eae530e32529@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261202T183000Z
 SUMMARY:TAKE 5 - בין באך לברובק עם וירטואוז ה
  סקסופון\, סטיב וילסון- ג'אז חם
@@ -2564,7 +2495,7 @@ URL:https://ksaba.smarticket.co.il/TAKE_5_-_בין_באך_לברוב
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_89906bf046fcdbdda7670e48@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261203T071500Z
 SUMMARY:דר' אבי אלון + ערן כץ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2581,7 +2512,7 @@ URL:https://ksaba.smarticket.co.il/דר__אבי_אלון___ערן_כ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_51d8dc7d29922ad2debbfcb1@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261205T090000Z
 SUMMARY:אלאדין
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2597,7 +2528,7 @@ URL:https://ksaba.smarticket.co.il/אלאדין_6513
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_13de9a68044b4cc062f6970f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261209T153000Z
 SUMMARY:סיפור הנס – חנוכה 2026
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2614,14 +2545,14 @@ URL:https://ksaba.smarticket.co.il/סיפור_הנס___חנוכה__2
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_35367540c5f7342b832830f0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261210T190000Z
 SUMMARY:שלום חנוך
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_283d0baf125a44a3e8571dfb@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261210T190000Z
 SUMMARY:שלום חנוך - LIVE בהיכל
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2634,7 +2565,7 @@ URL:https://ksaba.smarticket.co.il/שלום_חנוך_-_LIVE_בהיכ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1a12803132878e746cb623a6@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261212T090000Z
 SUMMARY:מחזמר חדש לכל המשפחה 'קסם של כוכב
  ים' בחנוכה 2026
@@ -2654,7 +2585,7 @@ URL:https://ksaba.smarticket.co.il/מחזמר_חדש_לכל_המשפ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_555693bb9794227870d4e213@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261213T070000Z
 SUMMARY:זיו אלכסנדרוני + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2672,7 +2603,7 @@ URL:https://ksaba.smarticket.co.il/זיו_אלכסנדרוני___ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a9a122939c5daa61ed9c3ad4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261214T180000Z
 SUMMARY:ביטלמניה – Magical Band
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2689,7 +2620,7 @@ URL:https://ksaba.smarticket.co.il/ביטלמניה___Magical_Band
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2ff1d358df674802f3212ccd@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261215T170000Z
 SUMMARY:סולני הפילהרמונית הישראלית 15.12.26
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2708,7 +2639,7 @@ URL:https://ksaba.smarticket.co.il/סולני_הפילהרמונית
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_5fdf60be6334fa5fa4985f6a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261216T070000Z
 SUMMARY:זיו אלכסנדרוני + דר' אבי אלון
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2726,7 +2657,7 @@ URL:https://ksaba.smarticket.co.il/זיו_אלכסנדרוני___ד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a46f0bbb9765d47a1acaa6e9@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261216T183000Z
 SUMMARY:גיל שוחט מארח את יזהר אשדות
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2744,7 +2675,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_מארח_את_י
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_fd517982a5eb379344c4b7c0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261217T071500Z
 SUMMARY:זיו אלכסנדרוני + הקרנת הסרט
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2762,7 +2693,7 @@ URL:https://ksaba.smarticket.co.il/זיו_אלכסנדרוני___ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_24467f6b26b7d7d78a14e4d9@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261217T183000Z
 SUMMARY:הברונית רוטשילד - התיאטרון העברי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2780,7 +2711,7 @@ URL:https://ksaba.smarticket.co.il/הברונית_רוטשילד_-_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ad05aedc47b6c99e29fc00c6@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261220T070000Z
 SUMMARY:דר' אורית אנגלברג + דר' עוז הרשלר
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2797,8 +2728,26 @@ URL:https://ksaba.smarticket.co.il/דר__אורית_אנגלברג__
  _דר__עוז_הרשלר
 END:VEVENT
 BEGIN:VEVENT
+UID:occ_fad0809505751447194a82dd@kfar-saba-events.local
+DTSTAMP:20260909T060008Z
+DTSTART:20261222T140000Z
+SUMMARY:קסם של פסטיבל - חנוכה 2026
+LOCATION:היכל התרבות כפר סבא\, כפר סבא
+DESCRIPTION:22 דצמבר קסם של פסטיבל - חנוכה 2026
+  קסם של פסטיבל - חנוכה 2026 הפסטיבל הכי 
+ גדול בחנוכה יוצא לדרך! קסם של פסטיבל -
+  מגשימים לכם משאלות כל כוכבי הילדים ה
+ אהובים ביותר בישראל על במה אחת בהפקת 
+ הענק המר... פרטים נוספים קסם של פסטיבל
+  - חנוכה 2026 חנוכה בהיכל ילדים בהיכל הי
+ כל התרבות כפר סבא ביום שלישי\, 22 בדצמב
+ ר 2026 בשעה 16:00 + 1 תאריכים
+URL:https://ksaba.smarticket.co.il/קסם_של_פסטיבל_-_חנו
+ כה_2026
+END:VEVENT
+BEGIN:VEVENT
 UID:occ_59e3af74e0c936a38b5bdda9@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261223T075900Z
 SUMMARY:23.12 – יפורסם בהמשך
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2811,7 +2760,7 @@ URL:https://ksaba.smarticket.co.il/23.12___יפורסם_בהמשך_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8ce8b5a290d7ebdd07533505@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261224T071500Z
 SUMMARY:24.12 יפורסם בהמשך
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2823,7 +2772,7 @@ URL:https://ksaba.smarticket.co.il/_24.12_יפורסם_בהמשך_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_680d556fb78242a7b075c252@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261224T183000Z
 SUMMARY:FEVER - מופע מחווה קצבי וסוחף ללהקת 
  הבי ג׳יז
@@ -2843,7 +2792,7 @@ URL:https://ksaba.smarticket.co.il/FEVER_-__מופע_מחווה_קצ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_9ca659d5e58073ddcf231cf7@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261225T070000Z
 SUMMARY:שישי מהסרטים - רדיקלי
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2861,7 +2810,7 @@ URL:https://ksaba.smarticket.co.il/שישי_מהסרטים_-_רדי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ac1a83a871c4be75f6783eec@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261226T190000Z
 SUMMARY:ערן זרחוביץ - סטנדאפ
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2878,7 +2827,7 @@ URL:https://ksaba.smarticket.co.il/ערן_זרחוביץ_-_סטנד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ab4b4dfb9ed654fee0d47428@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261227T070000Z
 SUMMARY:27.12- יפורסם בהמשך
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2890,7 +2839,7 @@ URL:https://ksaba.smarticket.co.il/27.12-_יפורסם_בהמשך
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8bc3dc1f8dae31505bc8fdac@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261228T150000Z
 SUMMARY:גיל שוחט - רסיטל 1 דת ואמונה
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -2909,7 +2858,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_-_רסיטל_1_ד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0731085afe0f7328e7ffddb8@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261230T183000Z
 SUMMARY:משאגת הארי עד יללת החתול - נעם סמל
   מארח
@@ -2929,7 +2878,7 @@ URL:https://ksaba.smarticket.co.il/משאגת_הארי_עד_יללת
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_613c3201b4ed32670d80628c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261230T183000Z
 SUMMARY:עדי אשכנזי - מופע סטנדאפ
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2946,7 +2895,7 @@ URL:https://ksaba.smarticket.co.il/עדי_אשכנזי_-_מופע_ס
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_570193ccb9feaa7cb7149ea0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20261231T190000Z
 SUMMARY:אסף יצחקי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2959,7 +2908,7 @@ URL:https://ksaba.smarticket.co.il/אסף_יצחקי_6509
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2ec59f8e844244e06148130e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270106T183000Z
 SUMMARY:מניו אורלינס לניו יורק עם זמרת הנ
  שמה\, שוגר קווין – ג'אז חם
@@ -2979,7 +2928,7 @@ URL:https://ksaba.smarticket.co.il/מניו_אורלינס_לניו_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_9fd3ebd2025f8412315cdf3f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270109T183000Z
 SUMMARY:קרניבנד - מופע מחווה לאלטון ג'ון
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -2998,7 +2947,7 @@ URL:https://ksaba.smarticket.co.il/קרניבנד_-_מופע_מחו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_9899549af60e3821b5f3e844@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270120T153000Z
 SUMMARY:הנסיך - תיאטרון השעה הישראלי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3016,7 +2965,7 @@ URL:https://ksaba.smarticket.co.il/הנסיך_-_תיאטרון_הש
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_abe9b45952b2c11181dd3a12@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270121T190000Z
 SUMMARY:שירי מימון - LIVE בהיכל
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3030,7 +2979,7 @@ URL:https://ksaba.smarticket.co.il/שירי_מימון_-_LIVE_בהי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_63d89999db965e45eb93fcec@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270128T183000Z
 SUMMARY:טרום בכורה בקולנוע - לראות את הסר
  טים הטובים לפני כולם
@@ -3051,7 +3000,7 @@ URL:https://ksaba.smarticket.co.il/טרום_בכורה_בקולנו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c010d6a3d418bb113f2a0500@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270130T180000Z
 SUMMARY:בימת הזמר שירה בציבור - מסאלח שבת
  י ועד קזבלן
@@ -3070,7 +3019,7 @@ URL:https://ksaba.smarticket.co.il/בימת_הזמר_שירה_בצי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_32a11a994499a3c0229323be@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270201T150000Z
 SUMMARY:גיל שוחט - רסיטל 2 מחזוריות החיים 
  והמוות
@@ -3090,7 +3039,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_-_רסיטל_2_מ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7407faf84304725b1cb5fc55@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270202T183000Z
 SUMMARY:אריק דוידוב במופע נשמה יהודית מא
  רח את כלייזמר סורין
@@ -3111,7 +3060,7 @@ URL:https://ksaba.smarticket.co.il/אריק_דוידוב_במופע_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_e85e10fe92d3c78096b95415@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270203T183000Z
 SUMMARY:חוגגים את ניו אורלינס של שנות ה-20'
   – ג'אז חם
@@ -3130,7 +3079,7 @@ URL:https://ksaba.smarticket.co.il/חוגגים_את_ניו_אורל
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_6d53eb05d297eaf70ae01078@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270204T190000Z
 SUMMARY:יהודה פוליקר - LIVE בהיכל
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3144,7 +3093,7 @@ URL:https://ksaba.smarticket.co.il/יהודה_פוליקר_-_LIVE_ב
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2b841a1597f741a77119e97e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270205T070000Z
 SUMMARY:שישי מהסרטים - בין שני עולמות
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3162,7 +3111,7 @@ URL:https://ksaba.smarticket.co.il/שישי_מהסרטים_-_בין_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_01fe6fe36d0994bcc0d90a92@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270208T180000Z
 SUMMARY:יואב קוטנר - איך שיר נולד: הצדעה ל
  כבש ה16
@@ -3182,7 +3131,7 @@ URL:https://ksaba.smarticket.co.il/יואב_קוטנר_-_איך_שי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a198aece57c5678a9e37c2bc@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270211T183000Z
 SUMMARY:קיר זכוכית - בית ליסין
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3200,7 +3149,7 @@ URL:https://ksaba.smarticket.co.il/קיר_זכוכית_-_בית_לי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7011d771ba4e10dbbe2371cb@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270217T183000Z
 SUMMARY:גיל שוחט מארח בפעם הראשונה את אלי
   לוזון
@@ -3220,7 +3169,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_מארח_בפעם
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1665696a36cb93c4e633ad2f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270218T183000Z
 SUMMARY:בחזרה אל שוטי הנבואה - תזמורת ירו
  שלים מזרח ומערב
@@ -3240,7 +3189,7 @@ URL:https://ksaba.smarticket.co.il/בחזרה_אל_שוטי_הנבו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_e8d6b44c2635f4a56259ab55@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270223T170000Z
 SUMMARY:סולני הפילהרמונית הישראלית 23.2.27
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3259,7 +3208,7 @@ URL:https://ksaba.smarticket.co.il/סולני_הפילהרמונית
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_aaee9639b23d53a81b5907ff@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270224T153000Z
 SUMMARY:ילדי בית העץ - תיאטרון מדיטק
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3277,7 +3226,7 @@ URL:https://ksaba.smarticket.co.il/ילדי_בית_העץ_-_תיאט
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b992bd0a234de8ab266c67e4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270225T190000Z
 SUMMARY:שנות הקסם "או לה לה"
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3295,7 +3244,7 @@ URL:https://ksaba.smarticket.co.il/שנות_הקסם__או_לה_לה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a3eaf700cdcb83f5ff4ab58d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270227T180000Z
 SUMMARY:בימת הזמר שירה בציבור - מכל הגלוי
  ות
@@ -3314,7 +3263,7 @@ URL:https://ksaba.smarticket.co.il/בימת_הזמר_שירה_בצי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_fa6e2fe53555cf2a26fb515b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270301T183000Z
 SUMMARY:שונאים\, סיפור אהבה - בית ליסין
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3332,7 +3281,7 @@ URL:https://ksaba.smarticket.co.il/שונאים__סיפור_אהבה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_74bf86234700ba3d5e1c6b87@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270302T183000Z
 SUMMARY:שונאים\, סיפור אהבה - בית ליסין
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3350,7 +3299,7 @@ URL:https://ksaba.smarticket.co.il/שונאים__סיפור_אהבה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_d6bf613c6abd9f1e6777966e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270303T180000Z
 SUMMARY:הג'יפסי GREEK בחגיגה יוונית צוענית
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3368,7 +3317,7 @@ URL:https://ksaba.smarticket.co.il/הג_יפסי_GREEK_בחגיגה_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_43199e99106cca894b15307a@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270310T183000Z
 SUMMARY:באך קופץ לקובה – ג'אז חם
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3385,7 +3334,7 @@ URL:https://ksaba.smarticket.co.il/באך_קופץ_לקובה___ג_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_d011013d1e9729a780490acf@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270311T183000Z
 SUMMARY:טרום בכורה בקולנוע - לראות את הסר
  טים הטובים לפני כולם
@@ -3406,7 +3355,7 @@ URL:https://ksaba.smarticket.co.il/טרום_בכורה_בקולנו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_8a9a1d606c2e1fb70d044842@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270315T183000Z
 SUMMARY:היהלום III - תזמורת ירושלים מזרח ומ
  ערב
@@ -3426,7 +3375,7 @@ URL:https://ksaba.smarticket.co.il/היהלום_III_-_תזמורת_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_25a044fe9ffd2bf20e9dd7f6@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270317T183000Z
 SUMMARY:7 ברכות לתיקי דיין - נעם סמל מארח
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3444,7 +3393,7 @@ URL:https://ksaba.smarticket.co.il/7_ברכות_לתיקי_דיין_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_630cf1593d65d5c070f5d34d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270319T070000Z
 SUMMARY:שישי מהסרטים - חליסה
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3461,7 +3410,7 @@ URL:https://ksaba.smarticket.co.il/שישי_מהסרטים_-_חלי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_dc5aa6e065084c26a128841f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270327T180000Z
 SUMMARY:בימת הזמר שירה בציבור - הלהקות הצ
  באיות
@@ -3480,7 +3429,7 @@ URL:https://ksaba.smarticket.co.il/בימת_הזמר_שירה_בצי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7f06af90e12b464e878ca9d1@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270331T143000Z
 SUMMARY:שכונת חיים - תיאטרון השעה הישראלי
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3499,7 +3448,7 @@ URL:https://ksaba.smarticket.co.il/שכונת_חיים_-_תיאטר
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_a8ef20582c2be4e693da37ed@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270403T173000Z
 SUMMARY:קרניבנד – מחווה ABBA
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3516,7 +3465,7 @@ URL:https://ksaba.smarticket.co.il/קרניבנד___מחווה_ABBA
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_56c74834dac06b9eaae1eb94@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270405T140000Z
 SUMMARY:גיל שוחט - רסיטל 3 הגורל
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3534,7 +3483,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_-_רסיטל_3_ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_78518fd61b785838ea818c5f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270406T160000Z
 SUMMARY:סולני הפילהרמונית הישראלית 6.4.27
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3553,7 +3502,7 @@ URL:https://ksaba.smarticket.co.il/סולני_הפילהרמונית
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_41580ce7a87b6dbff72be115@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270407T173000Z
 SUMMARY:הטירוף הצועני - בלקני – ג'אז חם
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3570,7 +3519,7 @@ URL:https://ksaba.smarticket.co.il/הטירוף_הצועני_-_בל
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b93049387418a5dfebf83a96@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270408T173000Z
 SUMMARY:פינק ליידי - תיאטרון באר שבע
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3588,7 +3537,7 @@ URL:https://ksaba.smarticket.co.il/פינק_ליידי_-_תיאטר
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_3bbeda97cb7b59c716adbd78@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270413T173000Z
 SUMMARY:אריק דוידוב מארח את רוי יאנג במופ
  ע "ניו אורלינס"
@@ -3609,7 +3558,7 @@ URL:https://ksaba.smarticket.co.il/אריק_דוידוב_מארח_א
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ba87b90090dbacab47552941@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270414T173000Z
 SUMMARY:גיל שוחט מארח את דודו פישר
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3627,7 +3576,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_מארח_את_ד
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_bbad306ef7ca839910ac573e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270430T060000Z
 SUMMARY:שישי מהסרטים - כאב אמיתי
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3645,7 +3594,7 @@ URL:https://ksaba.smarticket.co.il/שישי_מהסרטים_-_כאב_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_731abc3a9a64ab2ab1ae2076@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270501T180000Z
 SUMMARY:בימת הזמר שירה בציבור - סובב ארץ י
  שראל
@@ -3664,7 +3613,7 @@ URL:https://ksaba.smarticket.co.il/בימת_הזמר_שירה_בצי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_657fa5d50e9d8bb06798ac9f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270513T173000Z
 SUMMARY:מלאכים בלבן - הבימה
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3681,7 +3630,7 @@ URL:https://ksaba.smarticket.co.il/מלאכים_בלבן_-_הבימ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_7ee6e3afc01854c218b2c908@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270522T180000Z
 SUMMARY:שנות הקסם "שבעים FM"
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3697,7 +3646,7 @@ URL:https://ksaba.smarticket.co.il/שנות_הקסם__שבעים_FM_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_804d23f6d791da7da668c13c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270526T173000Z
 SUMMARY:הסווינג הלוהט של שנות ה־30' וה־40' 
  – ג'אז חם
@@ -3716,7 +3665,7 @@ URL:https://ksaba.smarticket.co.il/הסווינג_הלוהט_של_ש
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_13fb50227c2bb64be82cec56@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270528T060000Z
 SUMMARY:שישי מהסרטים - עד שיצא עשן לבן
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3734,7 +3683,7 @@ URL:https://ksaba.smarticket.co.il/שישי_מהסרטים_-_עד_ש
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_58a9b4522b3e06ba6f23d71e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270531T170000Z
 SUMMARY:יואב קוטנר - כוורת – יו יה
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3752,7 +3701,7 @@ URL:https://ksaba.smarticket.co.il/יואב_קוטנר_-_כוורת_
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2251e2ea32f1e20027a6034e@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270602T143000Z
 SUMMARY:רחוק מהבית - תיאטרון הקיבוץ
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3770,7 +3719,7 @@ URL:https://ksaba.smarticket.co.il/רחוק_מהבית_-_תיאטר
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_9196c609997c83db3c908d6b@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270602T173000Z
 SUMMARY:ליא קניג בת 92 "מתרגשת ברמות של כלה
  " - נעם סמל מארח
@@ -3790,7 +3739,7 @@ URL:https://ksaba.smarticket.co.il/ליא_קניג_בת_92__מתרג
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ee28f29481e7d8fecc77649c@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270607T170000Z
 SUMMARY:אוליביה ניוטון ג'ון ושירים מהסרט
  ים
@@ -3810,7 +3759,7 @@ URL:https://ksaba.smarticket.co.il/אוליביה_ניוטון_ג_ו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1fd8c124e61f07694e2b6349@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270608T160000Z
 SUMMARY:סולני הפילהרמונית הישראלית 8.6.27
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3829,7 +3778,7 @@ URL:https://ksaba.smarticket.co.il/סולני_הפילהרמונית
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_ca7c618ae96a9c2744a6b7c4@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270612T180000Z
 SUMMARY:בימת הזמר שירה בציבור -שלומית אהר
  ון במופע סיום העונה
@@ -3849,7 +3798,7 @@ URL:https://ksaba.smarticket.co.il/בימת_הזמר_שירה_בצי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1e6e47b4be26ae474deafbf7@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270614T140000Z
 SUMMARY:גיל שוחט - רסיטל 4 הגאולה
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3867,7 +3816,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_-_רסיטל_4_ה
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_c293ae6f60b796deaa98769f@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270615T173000Z
 SUMMARY:אריק דוידוב ״קולות של זהב״
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3886,7 +3835,7 @@ URL:https://ksaba.smarticket.co.il/אריק_דוידוב__קולות
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_2c599d8eb790c213917c437d@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270616T173000Z
 SUMMARY:מחווה לבואנה ויסטה סושיאל קלאב –
   ג'אז חם
@@ -3905,7 +3854,7 @@ URL:https://ksaba.smarticket.co.il/מחווה_לבואנה_ויסט
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_1bc0c425c388029a44f5fabc@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270617T173000Z
 SUMMARY:מסיבת אירוסין - בית ליסין
 LOCATION:היכל התרבות כפר סבא\, כפר סבא
@@ -3923,7 +3872,7 @@ URL:https://ksaba.smarticket.co.il/מסיבת_אירוסין_-_בי
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_255b8622f6e39a9801994405@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270618T060000Z
 SUMMARY:שישי מהסרטים - תלמה
 LOCATION:אודיטוריום כפר סבא\, כפר סבא
@@ -3941,7 +3890,7 @@ URL:https://ksaba.smarticket.co.il/שישי_מהסרטים_-_תלמ
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_521937b39af54c94b6758dae@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270623T173000Z
 SUMMARY:גיל שוחט מארח את עדי כהן ואסנת הר
  אל
@@ -3961,7 +3910,7 @@ URL:https://ksaba.smarticket.co.il/גיל_שוחט_מארח_את_ע
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_103a5dd9778b79d1525c8032@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270701T173000Z
 SUMMARY:טרום בכורה בקולנוע - לראות את הסר
  טים הטובים לפני כולם
@@ -3982,7 +3931,7 @@ URL:https://ksaba.smarticket.co.il/טרום_בכורה_בקולנו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_fa651e9d437abeaa8ad521ee@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270704T173000Z
 SUMMARY:פופ אייקון - תזמורת ירושלים מזרח 
  ומערב
@@ -4002,7 +3951,7 @@ URL:https://ksaba.smarticket.co.il/פופ_אייקון_-_תזמור
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_0408a90b2697203f7b5c2fe0@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270710T180000Z
 SUMMARY:קרניבנד - מופע מחווה לברברה סטריי
  סנד
@@ -4022,7 +3971,7 @@ URL:https://ksaba.smarticket.co.il/קרניבנד_-_מופע_מחו
 END:VEVENT
 BEGIN:VEVENT
 UID:occ_b3c03fe30b6dd40536ad8561@kfar-saba-events.local
-DTSTAMP:20260908T060008Z
+DTSTAMP:20260909T060008Z
 DTSTART:20270714T173000Z
 SUMMARY:הדיוות הגדולות של הג'אז – מופע סי
  ום חגיגי - ג'אז חם
