@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-11T01:22:28.450981+03:00",
+  "generated_at": "2026-09-12T00:18:07.598867+03:00",
   "timezone": "Asia/Jerusalem",
   "events": [
-    {
-      "id": "evt_5eeb188461437de60cd17565",
-      "title": "לילי וענת השכרת אולם/חדר הדרכה יולי 26",
-      "description": "11 ספטמבר לילי וענת השכרת אולם/חדר הדרכה יולי 26 פרטים נוספים לילי וענת השכרת אולם/חדר הדרכה יולי 26 בית לגיל הרך (רחוב הדרים 46) ביום שישי, 11 בספטמבר 2026 בשעה 12:00",
-      "city": "הוד השרון",
-      "venue_name": "בית לגיל הרך (רחוב הדרים 46)",
-      "address": "",
-      "price_min": null,
-      "price_max": null,
-      "currency": "ILS",
-      "free": null,
-      "source_priority": 90,
-      "first_seen_at": "2026-09-09T06:03:08.842914+00:00",
-      "updated_at": "2026-09-10T06:02:51.704018+00:00",
-      "occurrence_id": "occ_d2f36245c91289f076ea902d",
-      "starts_at": "2026-09-11T12:00:00+03:00",
-      "ends_at": null,
-      "categories": [],
-      "audience": [],
-      "source": "hod_hasharon_aluma",
-      "source_url": "https://aluma.smarticket.co.il/דמי_שכירות_אולמות_פעילות_וחדרי_הדרכה/?id=4928"
-    },
     {
       "id": "evt_3afcc99560ee83d632c2dc9d",
       "title": "בייבי בוקר - משחקייה לקטנטנים - זמן משחק חופשי עד גיל שנתיים וחצי",
@@ -2973,12 +2951,13 @@
       "free": null,
       "source_priority": 75,
       "first_seen_at": "2026-08-25T06:05:30.636663+00:00",
-      "updated_at": "2026-08-25T06:05:30.642796+00:00",
+      "updated_at": "2026-09-11T21:26:54.114242+00:00",
       "occurrence_id": "occ_46f4e8bb24128d6b8e5c6edc",
       "starts_at": "2026-11-19T21:00:00+02:00",
       "ends_at": null,
       "categories": [
-        "מוזיקה"
+        "מוזיקה",
+        "הופעה"
       ],
       "audience": [],
       "source": "WhatsApp",
@@ -3559,6 +3538,32 @@
       "source": "WhatsApp",
       "source_url": "",
       "image_url": "media/dd68048b429d475f7cacbfe030593734395ce6fd209c324fb6794f323545f314.png"
+    },
+    {
+      "id": "evt_675768579e9789eeefb283c7",
+      "title": "שלום חנוך",
+      "description": "",
+      "city": "כפר סבא",
+      "venue_name": "",
+      "address": "",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-09-11T21:26:54.092331+00:00",
+      "updated_at": "2026-09-11T21:26:54.110951+00:00",
+      "occurrence_id": "occ_fbffebe322496974a0aa0886",
+      "starts_at": "2026-12-10T21:00:00+02:00",
+      "ends_at": null,
+      "categories": [
+        "מוזיקה",
+        "הופעה"
+      ],
+      "audience": [],
+      "source": "WhatsApp",
+      "source_url": "",
+      "image_url": "media/f38094e91e7b1493c116d5d706752fc28ef31f552a669b7ef919e29f0dd4acc5.png"
     },
     {
       "id": "evt_0db98a3387840fc09334c734",
