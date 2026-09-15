@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-09-14T09:08:51.182909+03:00",
+  "generated_at": "2026-09-15T09:00:08.109191+03:00",
   "timezone": "Asia/Jerusalem",
   "events": [
-    {
-      "id": "evt_0d240839ae383f266ba41c9b",
-      "title": "משחקייה זמן משחק חופשי",
-      "description": "14 ספטמבר משחקייה זמן משחק חופשי פרטים נוספים משחקייה זמן משחק חופשי בית לגיל הרך - משחקייה (רחוב הדרים 46) ביום שני, 14 בספטמבר 2026 בשעה 16:00 מופע זמין גם במנוי",
-      "city": "הוד השרון",
-      "venue_name": "בית לגיל הרך - משחקייה (רחוב הדרים 46)",
-      "address": "",
-      "price_min": null,
-      "price_max": null,
-      "currency": "ILS",
-      "free": null,
-      "source_priority": 90,
-      "first_seen_at": "2026-09-07T08:00:24.435415+00:00",
-      "updated_at": "2026-09-13T06:02:48.341619+00:00",
-      "occurrence_id": "occ_1cea7dcb65a24087cd79e062",
-      "starts_at": "2026-09-14T16:00:00+03:00",
-      "ends_at": null,
-      "categories": [],
-      "audience": [],
-      "source": "hod_hasharon_aluma",
-      "source_url": "https://aluma.smarticket.co.il/משחקייה_זמן_משחק_חופשי/?id=4877"
-    },
-    {
-      "id": "evt_8cf3dca69fab6516cc426c54",
-      "title": "100 באוריינות דיגיטלית - וואטסאפ - סדנה למתקדמים",
-      "description": "15 ספטמבר 100 באוריינות דיגיטלית - וואטסאפ - סדנה למתקדמים פרטים נוספים 100 באוריינות דיגיטלית - וואטסאפ - סדנה למתקדמים חדר ישיבות - מרכז האמנויות הרב תחומי ביום שלישי, 15 בספטמבר 2026 בשעה 09:00 הכרטיסים אזלו",
-      "city": "הוד השרון",
-      "venue_name": "חדר ישיבות - מרכז האמנויות הרב תחומי",
-      "address": "",
-      "price_min": null,
-      "price_max": null,
-      "currency": "ILS",
-      "free": null,
-      "source_priority": 90,
-      "first_seen_at": "2026-09-07T08:00:24.441845+00:00",
-      "updated_at": "2026-09-13T06:02:48.342141+00:00",
-      "occurrence_id": "occ_22ec7680a69f51b5c7f77e33",
-      "starts_at": "2026-09-15T09:00:00+03:00",
-      "ends_at": null,
-      "categories": [],
-      "audience": [],
-      "source": "hod_hasharon_aluma",
-      "source_url": "https://aluma.smarticket.co.il/_100_באוריינות_דיגיטלית_-_וואטסאפ_-_סדנה_למתקדמים/?id=4743"
-    },
     {
       "id": "evt_78ca98d5f676e5ca76cfa86a",
       "title": "גן עם אמא או אבא",
@@ -76,6 +32,33 @@
       "image_url": "media/3b927269f13d8a109fb3a24ae26fc7e3592032c6284057535cca6a628515643c.png"
     },
     {
+      "id": "evt_a32480e611b889cf6a5cf71e",
+      "title": "ג׳ק והנסיכה – שעת סיפור עם עומר המספר",
+      "description": "",
+      "city": "כפר סבא",
+      "venue_name": "אולם ההרצאות בספריית המבוגרים",
+      "address": "",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-09-15T06:03:35.499121+00:00",
+      "updated_at": "2026-09-15T06:03:35.499121+00:00",
+      "occurrence_id": "occ_362d68ca0338baf76398d9bc",
+      "starts_at": "2026-09-15T17:00:00+03:00",
+      "ends_at": null,
+      "categories": [
+        "שעת סיפור",
+        "ילדים"
+      ],
+      "audience": [
+        "גיל 3 ומעלה"
+      ],
+      "source": "WhatsApp",
+      "source_url": "https://ksaba.paykal.co.il/product/storytime_sep02-2/"
+    },
+    {
       "id": "evt_f88f59b0ed7f4a89288fd85d",
       "title": "הַוִּיטְרִינָה שֶׁל סָבְתָא - תיאטרון הבובנאיות החופשיות",
       "description": "15 ספטמבר הַוִּיטְרִינָה שֶׁל סָבְתָא - תיאטרון הבובנאיות החופשיות פרטים נוספים הַוִּיטְרִינָה שֶׁל סָבְתָא - תיאטרון הבובנאיות החופשיות מרכז האמנויות הרב תחומי - אודיטוריום מסומן ביום שלישי, 15 בספטמבר 2026 בשעה 17:00",
@@ -96,6 +79,32 @@
       "audience": [],
       "source": "hod_hasharon_aluma",
       "source_url": "https://aluma.smarticket.co.il/ה_ו__יט_ר_ינ_ה_ש__ל_ס_ב_ת_א_-_תיאטרון_הבובנאיות_החופשיות/?id=4838"
+    },
+    {
+      "id": "evt_03145a15ada7d9b4e2183ca3",
+      "title": "קפה תיקון",
+      "description": "",
+      "city": "כפר סבא",
+      "venue_name": "מרכז קיפוד",
+      "address": "החר״ש 2",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-09-15T06:03:35.504803+00:00",
+      "updated_at": "2026-09-15T06:03:35.504803+00:00",
+      "occurrence_id": "occ_9d35b5c2e2014ef4c803f8e9",
+      "starts_at": "2026-09-15T18:00:00+03:00",
+      "ends_at": "2026-09-15T20:00:00+03:00",
+      "categories": [
+        "קהילה",
+        "תיקונים"
+      ],
+      "audience": [],
+      "source": "WhatsApp",
+      "source_url": "",
+      "image_url": "media/77f77adfed9a2bd1489468536b74d8d2b55994727460decfb0c647c9bd83bbb0.png"
     },
     {
       "id": "evt_73fb3dc5724f28af3a3067b8",
@@ -172,6 +181,31 @@
       "source": "WhatsApp",
       "source_url": "",
       "image_url": "media/6c55f2967baa5486250f66d1f518f96d3facb47b05f2d4a62d3f9e617cea330f.png"
+    },
+    {
+      "id": "evt_d124a93274ccd53fc6cf0fc2",
+      "title": "הרצאה עם בר הפיטנס ושיר הדס מאיר",
+      "description": "",
+      "city": "כפר סבא",
+      "venue_name": "מרכז קהילתי גלר",
+      "address": "רח׳ מור, שכונת הדרים",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-09-15T06:03:35.454904+00:00",
+      "updated_at": "2026-09-15T06:03:35.495567+00:00",
+      "occurrence_id": "occ_398b1ba35a25969b955c9cff",
+      "starts_at": "2026-09-15T20:00:00+03:00",
+      "ends_at": null,
+      "categories": [
+        "הרצאה"
+      ],
+      "audience": [],
+      "source": "WhatsApp",
+      "source_url": "",
+      "image_url": "media/4538409d0275045facbe7e635aa5b391fb4936813f8a443c08ac887753b43253.png"
     },
     {
       "id": "evt_f9a7cb174c6c2b1ca158d979",
@@ -1585,6 +1619,34 @@
       "audience": [],
       "source": "kfar_saba_smarticket",
       "source_url": "https://ksaba.smarticket.co.il/אירי_ריקין___הקרנת_הסרט___f58eacf55b"
+    },
+    {
+      "id": "evt_e1a5896e8f8f203176705796",
+      "title": "חוג אילוף ותקשורת עם כלבים – שיעור ניסיון",
+      "description": "",
+      "city": "כפר סבא",
+      "venue_name": "מרכז קהילתי בית הסטודנט",
+      "address": "רח׳ משה שרת 6",
+      "price_min": null,
+      "price_max": null,
+      "currency": "ILS",
+      "free": null,
+      "source_priority": 75,
+      "first_seen_at": "2026-09-15T06:03:35.508205+00:00",
+      "updated_at": "2026-09-15T06:03:35.508205+00:00",
+      "occurrence_id": "occ_7483ccc95906a1e4d984081c",
+      "starts_at": "2026-10-08T18:00:00+03:00",
+      "ends_at": "2026-10-08T18:45:00+03:00",
+      "categories": [
+        "חוג",
+        "כלבים"
+      ],
+      "audience": [
+        "כיתות ג׳–ו׳"
+      ],
+      "source": "WhatsApp",
+      "source_url": "",
+      "image_url": "media/72430e0586a14eaca24cd6d1341d170db14976bb632f4985d0ff4f0f06db29f0.png"
     },
     {
       "id": "evt_676c2de875a3b59dcf1f7a8b",
